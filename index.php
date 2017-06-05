@@ -90,7 +90,7 @@ De lamp  helpt u om gemakkelijker en productiever te studeren of te werk te gaan
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-3" style="text-align: right">
+					<div class="col-md-3 rightinftext">
 						<div style="border-bottom:1px solid #f7f7f7; padding:30px 0px;">
 							<h4 style="color:#f6ce0a; margin-bottom: 20px;">Microfoon</h4>
 							<p>De microfoon meet het geluidsniveau in de omgeving.</p>
@@ -102,9 +102,9 @@ De lamp  helpt u om gemakkelijker en productiever te studeren of te werk te gaan
 					</div>
 					
 					<div class="col-md-6">				
-					<img class="img-responsive lamp-img" src="lamp-small.png" />
+					<img class="img-responsive lamp-img" src="img/lamp-small.png" />
 					</div>
-					<div class="col-md-3" style="text-align: left;">					
+					<div class="col-md-3 leftinftext">					
 						<div style="border-bottom:1px solid #f7f7f7; padding:30px 0px;">
 							<h4 style="color:#f6ce0a; margin-bottom: 20px;">Melding</h4>
 							<p>De medewerker krijgt een melding als er overlast is.</p></div>
@@ -137,7 +137,7 @@ De lamp  helpt u om gemakkelijker en productiever te studeren of te werk te gaan
 					</div>
 					<div class="row">
 						<div class="col-md-6">
-							<img src="preview.jpg" width="auto" height="350px" />
+							<img class="contact-img" src="img/preview.jpg" width="auto" height="350px" />
 						</div>
 						<div class="col-md-6">
 								<form action="contact.php" method="post" enctype="multipart/form-data">

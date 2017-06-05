@@ -82,7 +82,7 @@ body {
     width:100%;
     min-height: 100%;
     background-color: #f6ce0a;
-    background-image: url(books2.png);
+    background-image: url(../img/books2.png);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -124,7 +124,7 @@ background-color: #f7f7f7!important;
 }
 
 .quote-back {
-	background-image: url(books2.png);
+	background-image: url(../img/books2.png);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -193,4 +193,29 @@ input[type="submit"] {
     width: auto;
     margin-left: auto;
     margin-right: auto;
+}
+
+.rightinftext {
+	text-align: right;
+}
+
+.leftinftext {
+	text-align: left;
+}
+
+@media only screen and (max-width: 991px) { 
+	.rightinftext {
+		text-align: center;
+	}
+	
+	.leftinftext {
+		text-align: center;
+	}
+	
+	.contact-img {
+		margin-left: auto;
+	    margin-right: auto;
+	    display: block;
+	}
+
 }
