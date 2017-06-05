@@ -90,12 +90,12 @@ De lamp  helpt u om gemakkelijker en productiever te studeren of te werk te gaan
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-3 rightinftext">
-						<div style="border-bottom:1px solid #f7f7f7; padding:30px 0px;">
+					<div class="col-md-3">
+						<div class="rightinftext">
 							<h4 style="color:#f6ce0a; margin-bottom: 20px;">Microfoon</h4>
 							<p>De microfoon meet het geluidsniveau in de omgeving.</p>
 						</div>
-						<div style="border-bottom:1px solid #f7f7f7; padding:30px 0px;">
+						<div class="rightinftext">
 							<h4 style="color:#f6ce0a; margin-bottom: 20px;">Lamp</h4>
 							<p>De lamp laat zien hoe hard er wordt gepraat in de omgeving.</p>
 						</div>
@@ -104,12 +104,12 @@ De lamp  helpt u om gemakkelijker en productiever te studeren of te werk te gaan
 					<div class="col-md-6">				
 					<img class="img-responsive lamp-img" src="img/lamp-small.png" />
 					</div>
-					<div class="col-md-3 leftinftext">					
-						<div style="border-bottom:1px solid #f7f7f7; padding:30px 0px;">
+					<div class="col-md-3">					
+						<div class="leftinftext">
 							<h4 style="color:#f6ce0a; margin-bottom: 20px;">Melding</h4>
 							<p>De medewerker krijgt een melding als er overlast is.</p></div>
 						
-						 <div style="border-bottom:1px solid #f7f7f7; padding:30px 0px;">
+						 <div class="leftinftext">
 							<h4 style="color:#f6ce0a; margin-bottom: 20px;">Draadloos</h4>
 							<p>Geen last meer van kabels. De lamp is draadloos.</p></div> 
 					</div>
