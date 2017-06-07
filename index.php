@@ -18,7 +18,7 @@
 
 	<body>
 
-
+	<header>
 		<nav class="navbar navbar-default navbar-fixed-top">
 		  <div class="container-fluid">
 		    <!-- Brand and toggle get grouped for better mobile display -->
@@ -50,7 +50,7 @@
 				</div>
 			</div>
 		</div>
-
+</header>
 
 		<!-- 3 stappen block 1 -->
 		<div class="block-1" id="probleem">
@@ -156,13 +156,14 @@ De lamp  helpt u om gemakkelijker en productiever te studeren of te werk te gaan
 					</div>
 				</div>
 			</div>
-
+	<footer>
 		<div class="container-fluid footer">
 			<div class="container">
 				<span>Silence of the lamps</span>
 			</div>
 		</div>
-		
+	</footer>
+
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 		
 		<!-- Latest compiled and minified JavaScript -->
